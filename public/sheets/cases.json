@@ -1,0 +1,778 @@
+[
+  {
+    "country": "Afghanistan",
+    "malaria cases": "280,000"
+  },
+  {
+    "country": "Albania",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Algeria",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Andorra",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Angola",
+    "malaria cases": "8,396,000"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Argentina",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Armenia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Australia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Austria",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Azerbaijan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Bahamas",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Bahrain",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Bangladesh",
+    "malaria cases": "22,000"
+  },
+  {
+    "country": "Barbados",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Belarus",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Belgium",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Belize",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Benin",
+    "malaria cases": "5,120,000"
+  },
+  {
+    "country": "Bhutan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Bolivia (Plurinational State of)",
+    "malaria cases": "14,000"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Botswana",
+    "malaria cases": "540"
+  },
+  {
+    "country": "Brazil",
+    "malaria cases": "150,000"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Bulgaria",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Burkina Faso",
+    "malaria cases": "8,019,000"
+  },
+  {
+    "country": "Burundi",
+    "malaria cases": "3,369,000"
+  },
+  {
+    "country": "Cabo Verde",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Cambodia",
+    "malaria cases": "18,000"
+  },
+  {
+    "country": "Cameroon",
+    "malaria cases": "6,459,000"
+  },
+  {
+    "country": "Canada",
+    "malaria cases": ""
+  },
+  {
+    "country": "Central African Republic",
+    "malaria cases": "1,733,000"
+  },
+  {
+    "country": "Chad",
+    "malaria cases": "3,636,000"
+  },
+  {
+    "country": "Chile",
+    "malaria cases": "-"
+  },
+  {
+    "country": "China",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Colombia",
+    "malaria cases": "102,000"
+  },
+  {
+    "country": "Comoros",
+    "malaria cases": "21,000"
+  },
+  {
+    "country": "Congo",
+    "malaria cases": "1,268,000"
+  },
+  {
+    "country": "Cook Islands",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Costa Rica",
+    "malaria cases": "410"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "malaria cases": "7,343,000"
+  },
+  {
+    "country": "Croatia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Cuba",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Cyprus",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Czechia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Democratic People's Republic of Korea",
+    "malaria cases": "6,300"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "malaria cases": "30,654,000"
+  },
+  {
+    "country": "Denmark",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Djibouti",
+    "malaria cases": "41,000"
+  },
+  {
+    "country": "Dominica",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Dominican Republic",
+    "malaria cases": "320"
+  },
+  {
+    "country": "Ecuador",
+    "malaria cases": "1,500"
+  },
+  {
+    "country": "Egypt",
+    "malaria cases": "-"
+  },
+  {
+    "country": "El Salvador",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "malaria cases": "389,000"
+  },
+  {
+    "country": "Eritrea",
+    "malaria cases": "139,000"
+  },
+  {
+    "country": "Estonia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Ethiopia",
+    "malaria cases": "5,106,000"
+  },
+  {
+    "country": "Fiji",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Finland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "France",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Gabon",
+    "malaria cases": "551,000"
+  },
+  {
+    "country": "Gambia",
+    "malaria cases": "252,000"
+  },
+  {
+    "country": "Georgia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Germany",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Ghana",
+    "malaria cases": "5,316,000"
+  },
+  {
+    "country": "Greece",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Grenada",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Guatemala",
+    "malaria cases": "1,900"
+  },
+  {
+    "country": "Guinea",
+    "malaria cases": "4,370,000"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "malaria cases": "225,000"
+  },
+  {
+    "country": "Guyana",
+    "malaria cases": "26,000"
+  },
+  {
+    "country": "Haiti",
+    "malaria cases": "35,000"
+  },
+  {
+    "country": "Honduras",
+    "malaria cases": "3,500"
+  },
+  {
+    "country": "Hungary",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Iceland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "India",
+    "malaria cases": "3,389,000"
+  },
+  {
+    "country": "Indonesia",
+    "malaria cases": "1,156,000"
+  },
+  {
+    "country": "Iran (Islamic Republic of)",
+    "malaria cases": "1,400"
+  },
+  {
+    "country": "Iraq",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Ireland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Israel",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Italy",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Jamaica",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Japan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Jordan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Kazakhstan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Kenya",
+    "malaria cases": "3,417,000"
+  },
+  {
+    "country": "Kiribati",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Kuwait",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "malaria cases": "3,700"
+  },
+  {
+    "country": "Latvia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Lebanon",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Lesotho",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Liberia",
+    "malaria cases": "1,853,000"
+  },
+  {
+    "country": "Libya",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Lithuania",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Luxembourg",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Madagascar",
+    "malaria cases": "3,560,000"
+  },
+  {
+    "country": "Malawi",
+    "malaria cases": "4,472,000"
+  },
+  {
+    "country": "Malaysia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Maldives",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Mali",
+    "malaria cases": "7,988,000"
+  },
+  {
+    "country": "Malta",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Marshall Islands",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Mauritania",
+    "malaria cases": "212,000"
+  },
+  {
+    "country": "Mauritius",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Mexico",
+    "malaria cases": "160"
+  },
+  {
+    "country": "Micronesia (Federated States of)",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Monaco",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Mongolia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Montenegro",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Morocco",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Mozambique",
+    "malaria cases": "10,443,000"
+  },
+  {
+    "country": "Myanmar",
+    "malaria cases": "584,000"
+  },
+  {
+    "country": "Namibia",
+    "malaria cases": "17,000"
+  },
+  {
+    "country": "Nauru",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Nepal",
+    "malaria cases": "36"
+  },
+  {
+    "country": "Netherlands",
+    "malaria cases": "-"
+  },
+  {
+    "country": "New Zealand",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Nicaragua",
+    "malaria cases": "20,000"
+  },
+  {
+    "country": "Niger",
+    "malaria cases": "7,724,000"
+  },
+  {
+    "country": "Nigeria",
+    "malaria cases": "66,722,000"
+  },
+  {
+    "country": "Niue",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Norway",
+    "malaria cases": "73"
+  },
+  {
+    "country": "Oman",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Pakistan",
+    "malaria cases": "2,655,000"
+  },
+  {
+    "country": "Palau",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Panama",
+    "malaria cases": "6,700"
+  },
+  {
+    "country": "Papua New Guinea",
+    "malaria cases": "1,660,000"
+  },
+  {
+    "country": "Paraguay",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Peru",
+    "malaria cases": "36,000"
+  },
+  {
+    "country": "Philippines",
+    "malaria cases": "8,200"
+  },
+  {
+    "country": "Poland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Portugal",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Qatar",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Republic of Korea",
+    "malaria cases": "380"
+  },
+  {
+    "country": "Republic of Moldova",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Romania",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Russian Federation",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Rwanda",
+    "malaria cases": "1,168,000"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Saint Lucia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Samoa",
+    "malaria cases": "-"
+  },
+  {
+    "country": "San Marino",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "malaria cases": "4,000"
+  },
+  {
+    "country": "Saudi Arabia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Senegal",
+    "malaria cases": "832,000"
+  },
+  {
+    "country": "Serbia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Seychelles",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Sierra Leone",
+    "malaria cases": "2,652,000"
+  },
+  {
+    "country": "Singapore",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Slovakia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Slovenia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Solomon Islands",
+    "malaria cases": "160,000"
+  },
+  {
+    "country": "Somalia",
+    "malaria cases": "1,038,000"
+  },
+  {
+    "country": "South Africa",
+    "malaria cases": "2,000"
+  },
+  {
+    "country": "South Sudan",
+    "malaria cases": "2,785,000"
+  },
+  {
+    "country": "Spain",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Sri Lanka",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Sudan",
+    "malaria cases": "3,361,000"
+  },
+  {
+    "country": "Suriname",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Swaziland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Sweden",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Switzerland",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Syrian Arab Republic",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Tajikistan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Thailand",
+    "malaria cases": "2,100"
+  },
+  {
+    "country": "The former Yugoslav Republic of Macedonia",
+    "malaria cases": ""
+  },
+  {
+    "country": "Timor-Leste",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Togo",
+    "malaria cases": "2,043,000"
+  },
+  {
+    "country": "Tonga",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Tunisia",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Turkey",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Turkmenistan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Tuvalu",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Uganda",
+    "malaria cases": "12,651,000"
+  },
+  {
+    "country": "Ukraine",
+    "malaria cases": "-"
+  },
+  {
+    "country": "United Arab Emirates",
+    "malaria cases": "-"
+  },
+  {
+    "country": "United Kingdom",
+    "malaria cases": "-"
+  },
+  {
+    "country": "United Republic of Tanzania",
+    "malaria cases": "7,960,000"
+  },
+  {
+    "country": "United States of America",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Uruguay",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Uzbekistan",
+    "malaria cases": "-"
+  },
+  {
+    "country": "Vanuatu",
+    "malaria cases": "2,000"
+  },
+  {
+    "country": "Venezuela (Bolivarian Republic of)",
+    "malaria cases": "154,000"
+  },
+  {
+    "country": "Viet Nam",
+    "malaria cases": "410"
+  },
+  {
+    "country": "Yemen",
+    "malaria cases": "889,000"
+  },
+  {
+    "country": "Zambia",
+    "malaria cases": "3,611,000"
+  },
+  {
+    "country": "Zimbabwe",
+    "malaria cases": "366,000"
+  }
+]

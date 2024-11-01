@@ -1,0 +1,310 @@
+[
+  {
+    "Year": 2021,
+    "Cause of death": "Malaria",
+    "Estimate": 180294,
+    "Lower bound": 121000,
+    "Upper bound": 265000
+  },
+  {
+    "Year": 2021,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 76626,
+    "Lower bound": 50800,
+    "Upper bound": 110000
+  },
+  {
+    "Year": 2020,
+    "Cause of death": "Malaria",
+    "Estimate": 183721,
+    "Lower bound": 129000,
+    "Upper bound": 262000
+  },
+  {
+    "Year": 2020,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 77246,
+    "Lower bound": 53500,
+    "Upper bound": 108000
+  },
+  {
+    "Year": 2019,
+    "Cause of death": "Malaria",
+    "Estimate": 172680,
+    "Lower bound": 127000,
+    "Upper bound": 234000
+  },
+  {
+    "Year": 2019,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 81403,
+    "Lower bound": 57400,
+    "Upper bound": 110000
+  },
+  {
+    "Year": 2018,
+    "Cause of death": "Malaria",
+    "Estimate": 170039,
+    "Lower bound": 129000,
+    "Upper bound": 223000
+  },
+  {
+    "Year": 2018,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 83660,
+    "Lower bound": 61000,
+    "Upper bound": 110000
+  },
+  {
+    "Year": 2017,
+    "Cause of death": "Malaria",
+    "Estimate": 167515,
+    "Lower bound": 130000,
+    "Upper bound": 213000
+  },
+  {
+    "Year": 2017,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 87992,
+    "Lower bound": 65000,
+    "Upper bound": 111000
+  },
+  {
+    "Year": 2016,
+    "Cause of death": "Malaria",
+    "Estimate": 162267,
+    "Lower bound": 127000,
+    "Upper bound": 206000
+  },
+  {
+    "Year": 2016,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 103823,
+    "Lower bound": 77400,
+    "Upper bound": 127000
+  },
+  {
+    "Year": 2015,
+    "Cause of death": "Malaria",
+    "Estimate": 160180,
+    "Lower bound": 130000,
+    "Upper bound": 195000
+  },
+  {
+    "Year": 2015,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 84932,
+    "Lower bound": 64800,
+    "Upper bound": 101000
+  },
+  {
+    "Year": 2014,
+    "Cause of death": "Malaria",
+    "Estimate": 155990,
+    "Lower bound": 129000,
+    "Upper bound": 186000
+  },
+  {
+    "Year": 2014,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 84233,
+    "Lower bound": 65700,
+    "Upper bound": 99500
+  },
+  {
+    "Year": 2013,
+    "Cause of death": "Malaria",
+    "Estimate": 157237,
+    "Lower bound": 133000,
+    "Upper bound": 185000
+  },
+  {
+    "Year": 2013,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 82889,
+    "Lower bound": 65600,
+    "Upper bound": 97000
+  },
+  {
+    "Year": 2012,
+    "Cause of death": "Malaria",
+    "Estimate": 162263,
+    "Lower bound": 139000,
+    "Upper bound": 187000
+  },
+  {
+    "Year": 2012,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 80506,
+    "Lower bound": 64400,
+    "Upper bound": 93000
+  },
+  {
+    "Year": 2011,
+    "Cause of death": "Malaria",
+    "Estimate": 174906,
+    "Lower bound": 149000,
+    "Upper bound": 202000
+  },
+  {
+    "Year": 2011,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 87870,
+    "Lower bound": 69600,
+    "Upper bound": 101000
+  },
+  {
+    "Year": 2010,
+    "Cause of death": "Malaria",
+    "Estimate": 189972,
+    "Lower bound": 164000,
+    "Upper bound": 218000
+  },
+  {
+    "Year": 2010,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 84633,
+    "Lower bound": 68100,
+    "Upper bound": 97000
+  },
+  {
+    "Year": 2009,
+    "Cause of death": "Malaria",
+    "Estimate": 207750,
+    "Lower bound": 181000,
+    "Upper bound": 236000
+  },
+  {
+    "Year": 2009,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 71927,
+    "Lower bound": 59400,
+    "Upper bound": 82900
+  },
+  {
+    "Year": 2008,
+    "Cause of death": "Malaria",
+    "Estimate": 219732,
+    "Lower bound": 185000,
+    "Upper bound": 248000
+  },
+  {
+    "Year": 2008,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 69839,
+    "Lower bound": 57200,
+    "Upper bound": 79200
+  },
+  {
+    "Year": 2007,
+    "Cause of death": "Malaria",
+    "Estimate": 227977,
+    "Lower bound": 195000,
+    "Upper bound": 260000
+  },
+  {
+    "Year": 2007,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 75659,
+    "Lower bound": 62200,
+    "Upper bound": 87000
+  },
+  {
+    "Year": 2006,
+    "Cause of death": "Malaria",
+    "Estimate": 231222,
+    "Lower bound": 200000,
+    "Upper bound": 262000
+  },
+  {
+    "Year": 2006,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 75463,
+    "Lower bound": 61800,
+    "Upper bound": 87100
+  },
+  {
+    "Year": 2005,
+    "Cause of death": "Malaria",
+    "Estimate": 227764,
+    "Lower bound": 202000,
+    "Upper bound": 256000
+  },
+  {
+    "Year": 2005,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 68164,
+    "Lower bound": 56400,
+    "Upper bound": 78300
+  },
+  {
+    "Year": 2004,
+    "Cause of death": "Malaria",
+    "Estimate": 218841,
+    "Lower bound": 194000,
+    "Upper bound": 244000
+  },
+  {
+    "Year": 2004,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 69360,
+    "Lower bound": 57800,
+    "Upper bound": 79300
+  },
+  {
+    "Year": 2003,
+    "Cause of death": "Malaria",
+    "Estimate": 209317,
+    "Lower bound": 185000,
+    "Upper bound": 234000
+  },
+  {
+    "Year": 2003,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 70438,
+    "Lower bound": 58800,
+    "Upper bound": 80600
+  },
+  {
+    "Year": 2002,
+    "Cause of death": "Malaria",
+    "Estimate": 205118,
+    "Lower bound": 180000,
+    "Upper bound": 232000
+  },
+  {
+    "Year": 2002,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 78007,
+    "Lower bound": 65200,
+    "Upper bound": 89500
+  },
+  {
+    "Year": 2001,
+    "Cause of death": "Malaria",
+    "Estimate": 216948,
+    "Lower bound": 190000,
+    "Upper bound": 245000
+  },
+  {
+    "Year": 2001,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 75254,
+    "Lower bound": 63000,
+    "Upper bound": 86800
+  },
+  {
+    "Year": 2000,
+    "Cause of death": "Malaria",
+    "Estimate": 218865,
+    "Lower bound": 190000,
+    "Upper bound": 254000
+  },
+  {
+    "Year": 2000,
+    "Cause of death": "Other under-5 deaths",
+    "Estimate": 73846,
+    "Lower bound": 62700,
+    "Upper bound": 87200
+  }
+]
